@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+2nd Year Artificial Intelligence and Robotics student at Aberystwyth University.
+Created this blog for my Software Engineering module.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[aih16@aber.ac.uk](mailto:aih16@aber.ac.uk)
