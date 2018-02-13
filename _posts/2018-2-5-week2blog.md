@@ -11,3 +11,5 @@ Alice and Connor are to find a way to implement tile proximity of the cube as th
 Sam and Matthew are to discuss and clarify the UI, specifically how to represent the cube as mentioned earier.
 
 I personally have been given the task to read through QA.03 and provide a small report on it's contents and how it relates to the project going forward.
+
+Practice.
