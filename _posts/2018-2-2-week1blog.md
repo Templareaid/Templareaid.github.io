@@ -27,7 +27,7 @@ Matters discussed were the UI problems, how the user will input words, the displ
 For the first week I was mostly playing catch up, catching up on lectures I had missed and reading up on the documents for the project such as the requirements, QA, Testing etc.
 
 ### Other Topics
-No other topics to write about this week.
+No other topics for this week.
 
 ----
 ****
