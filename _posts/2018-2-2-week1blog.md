@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 1 (29th Jan - 4th Feb)
+title: Week 1 (2nd Feb - 8th Feb)
 ---
 So I finally got the blog up and running for the Software Engineering Group Project.
 I chose to set up my blog using Github Pages and Jekyll. [This is a link to the Github Repository I used, it contains a small walkthrough on how to set up the blog.](https://github.com/barryclark/jekyll-now) I could have used my first year WordPress blog, just delete the old posts and redo the about pages and such but I chose Github three two main reasons.
