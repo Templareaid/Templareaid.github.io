@@ -12,4 +12,4 @@ Sam and Matthew are to discuss and clarify the UI, specifically how to represent
 
 I personally have been given the task to read through QA.03 and provide a small report on it's contents and how it relates to the project going forward.
 
-Another practice change.
+People have also been given permanent roles now, with myself being on testing.
