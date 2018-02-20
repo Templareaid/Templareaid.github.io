@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 2 (5th Feb - 11th Feb)  
+title: Week 2 (9th Feb - 15th Feb)  
 ---
 
 For the second week I attended the tutorial meeting on the Friday, which Lauren was absent from and Andy Starr was covering. Currently the task assigned to each member seem to be reasonable and progress is going well, the main stumbling block seems to be in the form of deciding how best to display and visualise the cube we will use in the Joggle game. The perspective is casuing some confusion and the group will need to agree on a set way to display the cube when talking about it to avoid confusion. For instance some members thought the cube was split into 3 layers with these representing the top, middle and bottom whilst others thought it was representing the front, middle and back.
