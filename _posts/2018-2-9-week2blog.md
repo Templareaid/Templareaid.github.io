@@ -14,7 +14,7 @@ Sam and Matthew are to discuss and clarify the UI, specifically how to represent
 I was to read through the testing document as I was still technically assigned this role until the group meeting and the QA 0.3 document as well.
 I personally have been given the task to read through QA.03 and provide a small report on it's contents and how it relates to the project going forward so we may assign roles at the group meeting.
 
-### Group Meeting (13th Feb)
+### Group Meeting (14th Feb)
 In the group meeting roles were assigned to each member:
 
 * Project Manager - Rhys
@@ -35,6 +35,10 @@ People have also been given permanent roles now, with myself being on testing. A
 
 ### Other Topics
 No other topics for this week.
+
+### Time
+* Time this week: 3
+* Total: 6
 
 ----
 ****
