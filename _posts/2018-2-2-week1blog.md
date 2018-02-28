@@ -14,7 +14,8 @@ Following this blog I will try and stick to a set format and standard in how the
 * What happened in the previous time tabled meeting
 * what happened in the previous group meeting
 * Write about what I personally did this week
-* Lastly discuss any outlying topics
+* Any outlying topics
+* Time spent on project
 
 ### Tutorial Meeting
 In regards to the Group Project, I missed the first Tutorial meeting as I was away at FOSDEM Friday - Tuesday. Due to this I was assigned the role of QA Testing along with Jack and Taylor but this is only for the given week. As I have not been to the meeting I don't have much more to write about this first week. I will cover the project more indepth in the next post when I have a permanent role in the group.
@@ -28,6 +29,10 @@ For the first week I was mostly playing catch up, catching up on lectures I had 
 
 ### Other Topics
 No other topics for this week.
+
+### Time
+* Time this week: 3
+* Total: 3
 
 ----
 ****
