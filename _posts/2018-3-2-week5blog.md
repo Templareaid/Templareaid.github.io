@@ -11,7 +11,7 @@ Matt was not present in this meeting and had not told me that the UI demo was co
 We also discussed whether or not we should use FXML rather than JavaFX which we had recently switched to.
 
 ### Weeks Work
-My job this week was to go over the test spec doucment and make changes based on the feedback we received from Chris. I however did not get round to do any work this week I spent my free time doing my AI Assignment.
+My job this week was to go over the test spec doucment and make changes based on the feedback we received from Chris. I however did not get round to doing any work this week I spent my free time doing my AI Assignment.
 
 ### Other Topics
 No other topics for this week.
