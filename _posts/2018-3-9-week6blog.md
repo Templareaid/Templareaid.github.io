@@ -12,11 +12,11 @@ We have also found a Java Standards Document that is roughly 700 pages long that
 
 
 ### Weeks Work
-This week I am testing the UI Demo and going over the test spec to add the given feedback.
+This week I fixed the Spec Test based on feedback from Chris. I also started work on the high score.
 
 ### Other Topics
 No other topics for this week.
 
 ### Time
-* Time this week: 0
-* Total: 18
+* Time this week: 4
+* Total: 26
