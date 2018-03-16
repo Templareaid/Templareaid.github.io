@@ -18,6 +18,7 @@ I have also started a small amount of work on the high score list.
 
 ### Other Topics
 No other topics for this week.
+Git test.
 
 ### Time
 * Time this week: 5
